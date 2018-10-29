@@ -8,7 +8,7 @@ To ensure that data is encrypted within your AWS architecture  AWS provides vari
 for data in transit as well as datat at rest
 
 <p>
-    <img src="images/ubiquitous-encryption.png" width="220" height="240" />
+    <img src="ubiquitous-encryption.png" width="220" height="240" />
 </p>
 
 ## Workshops
